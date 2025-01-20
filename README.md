@@ -33,11 +33,6 @@ Welcome to my GitHub profile! I’m Anurag Deb, a passionate software engineer s
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)  
 
-- **Monitoring**: Grafana dashboards for API performance  
-
-### Distributed Systems  
-- Built systems with a QPS (queries per second) rate of **30,000**, ensuring high availability and low latency.  
-
 ---
 
 ## 🌟 Career Highlights  
